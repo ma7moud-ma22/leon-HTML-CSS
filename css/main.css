@@ -174,7 +174,7 @@ body {
 /* End header */
 /* start landing */
 .landing {
-    background-image: url(../image/landing.jpg);
+    background-image: url("../image/landing.jpg");
     background-size: cover;
     height: calc(100vh - 70px);
     display: flex;
